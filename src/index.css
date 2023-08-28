@@ -1,0 +1,48 @@
+html, #root {
+    background-color: #f3ebdf;
+}
+.list-group{
+    --bs-list-group-color:#9c7563;
+    --bs-list-group-action-hover-color: #ffffff;
+    --bs-list-group-action-hover-bg: #d7b6a7;
+    --bs-list-group-border-color: #d7b6a7;
+    --bs-list-group-action-active-color: #ffffff;
+    --bs-list-group-action-active-bg: #9c7563;
+}
+
+.table{
+    --bs-table-color:#9c7563;
+}
+
+.alert-primary {
+    --bs-alert-color:#ffffff;
+    --bs-alert-bg: #9c7563;
+    --bs-alert-border-color: #ffffff;
+}
+.btn-sm, .btn-group-sm > .btn{
+    color: rgb(155, 69, 69);  
+}
+.btn-primary {
+    --bs-btn-bg: #9c7563;
+    --bs-btn-border-color: #9c7563;
+    --bs-btn-hover-bg: #9c7563;
+    --bs-btn-hover-border-color: #9c7563;
+    --bs-btn-active-bg: #9c7563;
+    --bs-btn-active-border-color: #9c7563;
+    --bs-btn-disabled-bg: #9c7563;
+    --bs-btn-disabled-border-color: #9c7563;
+}
+
+.alert-secondary {
+    --bs-alert-color: #9c7563;
+    --bs-alert-bg: #fff;
+    --bs-alert-border-color: #baa297;
+}
+
+.totalPrice {
+    color:#9c7563;
+}
+
+.card-title{
+    color:#9c7563;
+}
